@@ -1,0 +1,12 @@
+[
+  {
+    "Name": "AWS Payment Notification Troubleshooting",
+    "Language": "English",
+    "Files": [
+      { "RawFilePath": "https://raw.githubusercontent.com/fardeena-spektra/CosmosDemo/main/aws-payment-notification-troubleshooting/LabGuidePackage/LabGuide/GettingStarted-V2.md", "Order": 1 },
+      { "RawFilePath": "https://raw.githubusercontent.com/fardeena-spektra/CosmosDemo/main/aws-payment-notification-troubleshooting/LabGuidePackage/LabGuide/Exercise-01.md", "Order": 2 },
+      { "RawFilePath": "https://raw.githubusercontent.com/fardeena-spektra/CosmosDemo/main/aws-payment-notification-troubleshooting/LabGuidePackage/LabGuide/Exercise-02.md", "Order": 3 },
+      { "RawFilePath": "https://raw.githubusercontent.com/fardeena-spektra/CosmosDemo/main/aws-payment-notification-troubleshooting/LabGuidePackage/LabGuide/Exercise-03.md", "Order": 4 }
+    ]
+  }
+]
